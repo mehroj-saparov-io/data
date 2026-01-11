@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Personal Blog Platform",
+    "description": "A minimal personal blog built with Django and Tailwind CSS.",
+    "url": "https://github.com/mehroj-saparov-io/personal-blog"
+  },
+  {
+    "name": "REST API with Django REST Framework",
+    "description": "Scalable REST API using DRF and PostgreSQL.",
+    "url": "https://github.com/mehroj-saparov-io/drf-api"
+  },
+  {
+    "name": "Portfolio Website",
+    "description": "Personal portfolio website built with Django and modern UI.",
+    "url": "https://github.com/mehroj-saparov-io/portfolio"
+  }
+]

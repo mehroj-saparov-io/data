@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Clean Architecture in Django Projects",
+    "excerpt": "How to structure Django projects for long-term maintainability and scalability.",
+    "published_date": "Jan 10, 2026",
+    "reading_time": "7 min read",
+    "tags": ["Django", "Architecture", "Best Practices"]
+  },
+  {
+    "id": 2,
+    "title": "Building REST APIs with Django REST Framework",
+    "excerpt": "A practical guide to building clean, secure, and scalable REST APIs using DRF.",
+    "published_date": "Jan 7, 2026",
+    "reading_time": "9 min read",
+    "tags": ["Django", "REST", "API"]
+  },
+  {
+    "id": 3,
+    "title": "PostgreSQL Performance Tips for Backend Developers",
+    "excerpt": "Indexes, query optimization, and common mistakes when working with PostgreSQL.",
+    "published_date": "Jan 3, 2026",
+    "reading_time": "8 min read",
+    "tags": ["PostgreSQL", "Database", "Performance"]
+  },
+  {
+    "id": 4,
+    "title": "Dockerizing Python Applications the Right Way",
+    "excerpt": "Best practices for containerizing Python apps for development and production.",
+    "published_date": "Dec 29, 2025",
+    "reading_time": "6 min read",
+    "tags": ["Docker", "DevOps", "Python"]
+  },
+  {
+    "id": 5,
+    "title": "Async in Python: When and When Not to Use It",
+    "excerpt": "Understanding asyncio, async views, and performance trade-offs in Python.",
+    "published_date": "Dec 24, 2025",
+    "reading_time": "10 min read",
+    "tags": ["Python", "Async", "Backend"]
+  },
+  {
+    "id": 6,
+    "title": "Clean Architecture in Django Projects (Part 2)",
+    "excerpt": "Advanced patterns and real-world examples of clean architecture in Django.",
+    "published_date": "Jan 12, 2026",
+    "reading_time": "8 min read",
+    "tags": ["Django", "Architecture"]
+  }
+]
