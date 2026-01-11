@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "slug": "clean-architecture-django",
     "title": "Clean Architecture in Django Projects",
     "excerpt": "How to structure Django projects for long-term maintainability and scalability.",
     "published_date": "Jan 10, 2026",
@@ -9,6 +10,7 @@
   },
   {
     "id": 2,
+    "slug": "building-rest-apis-drf",
     "title": "Building REST APIs with Django REST Framework",
     "excerpt": "A practical guide to building clean, secure, and scalable REST APIs using DRF.",
     "published_date": "Jan 7, 2026",
@@ -17,6 +19,7 @@
   },
   {
     "id": 3,
+    "slug": "postgresql-performance-tips",
     "title": "PostgreSQL Performance Tips for Backend Developers",
     "excerpt": "Indexes, query optimization, and common mistakes when working with PostgreSQL.",
     "published_date": "Jan 3, 2026",
@@ -25,6 +28,7 @@
   },
   {
     "id": 4,
+    "slug": "dockerizing-python-applications",
     "title": "Dockerizing Python Applications the Right Way",
     "excerpt": "Best practices for containerizing Python apps for development and production.",
     "published_date": "Dec 29, 2025",
@@ -33,6 +37,7 @@
   },
   {
     "id": 5,
+    "slug": "async-python-when-to-use",
     "title": "Async in Python: When and When Not to Use It",
     "excerpt": "Understanding asyncio, async views, and performance trade-offs in Python.",
     "published_date": "Dec 24, 2025",
@@ -41,6 +46,7 @@
   },
   {
     "id": 6,
+    "slug": "clean-architecture-django-part-2",
     "title": "Clean Architecture in Django Projects (Part 2)",
     "excerpt": "Advanced patterns and real-world examples of clean architecture in Django.",
     "published_date": "Jan 12, 2026",
