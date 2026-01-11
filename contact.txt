@@ -1,0 +1,7 @@
+{
+  "github": "https://github.com/mehroj-saparov-io",
+  "linkedin": "https://linkedin.com/in/mehroj-saparov",
+  "twitter": "https://twitter.com/mehroj_dev",
+  "telegram": "https://t.me/mehroj",
+  "email": "mailto:mehroj@example.com"
+}
