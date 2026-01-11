@@ -1,56 +1,56 @@
 [
   {
     "id": 1,
-    "title": "Python kirish (IDE)",
+    "title": "Python Kirish – IDE va Setup",
     "youtube_id": "Etr2LCZ2GPo",
-    "category": "Python"
+    "category": ["Python"]
   },
   {
     "id": 2,
-    "title": "Python kirish (IDE)",
+    "title": "Python Variables va Data Types",
     "youtube_id": "Etr2LCZ2GPo",
-    "category": "Python"
+    "category": ["Python"]
   },
   {
     "id": 3,
-    "title": "Python kirish (IDE)",
+    "title": "Django Project Structure",
     "youtube_id": "Etr2LCZ2GPo",
-    "category": "Django"
+    "category": ["Django", "Backend"]
   },
   {
     "id": 4,
-    "title": "Python kirish (IDE)",
+    "title": "Django URLs va Views",
     "youtube_id": "Etr2LCZ2GPo",
-    "category": "Django"
+    "category": ["Django"]
   },
   {
     "id": 5,
-    "title": "Python kirish (IDE)",
+    "title": "HTML & CSS Basics",
     "youtube_id": "Etr2LCZ2GPo",
-    "category": "Backend"
+    "category": ["Web"]
   },
   {
     "id": 6,
-    "title": "Python kirish (IDE)",
+    "title": "Responsive Design",
     "youtube_id": "Etr2LCZ2GPo",
-    "category": "Backend"
+    "category": ["Web"]
   },
   {
     "id": 7,
-    "title": "Python kirish (IDE)",
+    "title": "Git Basics",
     "youtube_id": "Etr2LCZ2GPo",
-    "category": "Web"
+    "category": ["Tools"]
   },
   {
     "id": 8,
-    "title": "Python kirish (IDE)",
+    "title": "Backend nima?",
     "youtube_id": "Etr2LCZ2GPo",
-    "category": "Web"
+    "category": ["Backend"]
   },
   {
     "id": 9,
-    "title": "Python kirish (IDE)",
+    "title": "REST API tushunchasi",
     "youtube_id": "Etr2LCZ2GPo",
-    "category": "Programming"
+    "category": ["Backend", "Web"]
   }
 ]
