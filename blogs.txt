@@ -1,13 +1,35 @@
 [
   {
-    "id": 2,
+    "id": 1,
     "slug": "atom-odatlaridan-olgan-bilimlarim",
     "title": "Atom odatlaridan olgan bilimlarim",
     "excerpt": "Katta o‘zgarishlar har doim katta qarorlardan boshlanmaydi.",
-    "description": "Atom Odatlari kitobidan olingan shaxsiy xulosalar: kichik odatlar orqali hayotni asta-sekin o‘zgartirish haqida.",
+    "description": "James Clear’ning “Atom Odatlari” kitobidan olgan shaxsiy xulosalarim: kichik, ammo barqaror odatlar orqali hayotni asta-sekin o‘zgartirish haqida.",
     "content": "atomic_habit.html",
     "published_date": "Jan 11, 2026",
     "reading_time": "6 min read",
     "tags": ["Shaxsiy blog", "Odatlar"]
+  },
+  {
+    "id": 2,
+    "slug": "dasturchi-bolmoqchimisiz-ingliz-tilidan-boshlang",
+    "title": "Dasturchi bo‘lmoqchimisiz? Ingliz tilidan boshlang",
+    "excerpt": "Ingliz tili dasturchi uchun qo‘shimcha emas, asosiy vositadir.",
+    "description": "Dasturchilik yo‘lida ingliz tilining o‘rni, uni mukammal bilish shart emasligi va qanday qilib kod bilan birga o‘rganish mumkinligi haqida shaxsiy fikrlar.",
+    "content": "english_for_developers.html",
+    "published_date": "Jan 13, 2026",
+    "reading_time": "5 min read",
+    "tags": ["Dasturlash", "Ingliz tili", "Shaxsiy tajriba"]
+  },
+  {
+    "id": 3,
+    "slug": "yoq-deyishni-organish-sanati",
+    "title": "Yo‘q deyishni o‘rganish san’ati",
+    "excerpt": "Har bir \"ha\" boshqa bir narsaga aytilgan \"yo‘q\"dir.",
+    "description": "Vaqt, e’tibor va ichki xotirjamlikni asrash uchun nega va qanday qilib “yo‘q” deyishni o‘rganish kerakligi haqida shaxsiy mulohazalar.",
+    "content": "no_saying_art.html",
+    "published_date": "Jan 15, 2026",
+    "reading_time": "5 min read",
+    "tags": ["Shaxsiy blog", "Hayot", "Intizom"]
   }
 ]
