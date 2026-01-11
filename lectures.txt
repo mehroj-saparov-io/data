@@ -2,61 +2,43 @@
   {
     "id": 1,
     "title": "Django Full Course – Part 1",
-    "youtube_id": "PyFlnFEmzEs",
+    "youtube_id": "eQvea7bnetw",
     "category": "Django"
   },
   {
     "id": 2,
     "title": "Django Models Explained",
-    "youtube_id": "PyFlnFEmzEs",
+    "youtube_id": "eQvea7bnetw",
     "category": "Django"
   },
   {
     "id": 3,
     "title": "Django REST Framework Basics",
-    "youtube_id": "PyFlnFEmzEs",
+    "youtube_id": "eQvea7bnetw",
     "category": "Django"
   },
   {
     "id": 4,
     "title": "Django Pagination Tutorial",
-    "youtube_id": "PyFlnFEmzEs",
+    "youtube_id": "eQvea7bnetw",
     "category": "Django"
   },
   {
     "id": 5,
     "title": "Django Authentication",
-    "youtube_id": "PyFlnFEmzEs",
+    "youtube_id": "eQvea7bnetw",
     "category": "Django"
   },
   {
     "id": 6,
-    "title": "Django Deployment Guide",
-    "youtube_id": "PyFlnFEmzEs",
-    "category": "Django"
+    "title": "Python Basics",
+    "youtube_id": "eQvea7bnetw",
+    "category": "Python"
   },
   {
     "id": 7,
-    "title": "Python Basics",
-    "youtube_id": "PyFlnFEmzEs",
-    "category": "Python"
-  },
-  {
-    "id": 8,
     "title": "Python OOP Explained",
-    "youtube_id": "PyFlnFEmzEs",
-    "category": "Python"
-  },
-  {
-    "id": 9,
-    "title": "Async Python Explained",
-    "youtube_id": "PyFlnFEmzEs",
-    "category": "Python"
-  },
-  {
-    "id": 10,
-    "title": "Python Tips & Tricks",
-    "youtube_id": "PyFlnFEmzEs",
+    "youtube_id": "eQvea7bnetw",
     "category": "Python"
   }
 ]
