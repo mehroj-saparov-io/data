@@ -1,44 +1,56 @@
 [
   {
     "id": 1,
-    "title": "Django Full Course – Part 1",
-    "youtube_id": "eQvea7bnetw",
-    "category": "Django"
+    "title": "Python kirish (IDE)",
+    "youtube_id": "Etr2LCZ2GPo",
+    "category": "Python"
   },
   {
     "id": 2,
-    "title": "Django Models Explained",
-    "youtube_id": "eQvea7bnetw",
-    "category": "Django"
+    "title": "Python kirish (IDE)",
+    "youtube_id": "Etr2LCZ2GPo",
+    "category": "Python"
   },
   {
     "id": 3,
-    "title": "Django REST Framework Basics",
-    "youtube_id": "eQvea7bnetw",
+    "title": "Python kirish (IDE)",
+    "youtube_id": "Etr2LCZ2GPo",
     "category": "Django"
   },
   {
     "id": 4,
-    "title": "Django Pagination Tutorial",
-    "youtube_id": "eQvea7bnetw",
+    "title": "Python kirish (IDE)",
+    "youtube_id": "Etr2LCZ2GPo",
     "category": "Django"
   },
   {
     "id": 5,
-    "title": "Django Authentication",
-    "youtube_id": "eQvea7bnetw",
-    "category": "Django"
+    "title": "Python kirish (IDE)",
+    "youtube_id": "Etr2LCZ2GPo",
+    "category": "Backend"
   },
   {
     "id": 6,
-    "title": "Python Basics",
-    "youtube_id": "eQvea7bnetw",
-    "category": "Python"
+    "title": "Python kirish (IDE)",
+    "youtube_id": "Etr2LCZ2GPo",
+    "category": "Backend"
   },
   {
     "id": 7,
-    "title": "Python OOP Explained",
-    "youtube_id": "eQvea7bnetw",
-    "category": "Python"
+    "title": "Python kirish (IDE)",
+    "youtube_id": "Etr2LCZ2GPo",
+    "category": "Web"
+  },
+  {
+    "id": 8,
+    "title": "Python kirish (IDE)",
+    "youtube_id": "Etr2LCZ2GPo",
+    "category": "Web"
+  },
+  {
+    "id": 9,
+    "title": "Python kirish (IDE)",
+    "youtube_id": "Etr2LCZ2GPo",
+    "category": "Programming"
   }
 ]
