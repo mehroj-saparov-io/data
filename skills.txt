@@ -2,11 +2,8 @@
   "Python",
   "Django",
   "FastAPI",
-  "REST APIs",
   "PostgreSQL",
-  "Redis",
-  "Docker",
-  "Linux",
   "Git",
-  "GitHub"
+  "GitHub",
+  "C#"
 ]
