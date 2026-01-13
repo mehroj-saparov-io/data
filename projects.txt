@@ -1,17 +1,17 @@
 [
   {
     "name": "Static Django Template (Demo)",
-    "description": "A demo personal website built with Django templates. The project is not fully completed and is used mainly for layout and structure experiments.",
+    "description": "A demo personal website built with Django templates for testing and experimentation. This project focuses on static pages, layout structure, and template usage rather than full functionality.",
     "url": "https://github.com/mehroj-saparov-io/django-template-static"
   },
   {
-    "name": "Todo Website with Admin Panel",
-    "description": "A simple todo application built with Django, featuring authentication and an admin panel for managing tasks.",
-    "url": "https://github.com/mehroj-saparov-io/todo-website"
+    "name": "Personal Website",
+    "description": "A universal personal website built with Django to showcase my profile, projects, and content. The project is designed with a clean structure, reusable components, and a scalable backend architecture.",
+    "url": "https://github.com/mehroj-saparov-io/django-personal-website"
   },
   {
-    "name": "Personal Website",
-    "description": "My current personal website built with Django. Focused on clean structure, minimal design, and content-driven pages.",
-    "url": "https://github.com/mehroj-saparov-io/django-webpage"
+    "name": "Todo Website",
+    "description": "A simple todo web application built with Django. It includes basic task management features and demonstrates CRUD operations, authentication, and admin panel usage.",
+    "url": "https://github.com/mehroj-saparov-io/todo-website"
   }
 ]

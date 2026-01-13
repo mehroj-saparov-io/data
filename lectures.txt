@@ -1,56 +1,38 @@
 [
   {
     "id": 1,
-    "title": "Python Kirish – IDE va Setup",
+    "title": "Python Kirish",
     "youtube_id": "Etr2LCZ2GPo",
     "category": ["Python"]
   },
   {
     "id": 2,
-    "title": "Python Variables va Data Types",
-    "youtube_id": "Etr2LCZ2GPo",
+    "title": "Pythonda O'zgaruvchilar va Ma'lumot Turlari",
+    "youtube_id": "5onSQKbgwVc",
     "category": ["Python"]
   },
   {
     "id": 3,
-    "title": "Django Project Structure",
-    "youtube_id": "Etr2LCZ2GPo",
-    "category": ["Django", "Backend"]
+    "title": "Kommentariyalar va Operatorlar",
+    "youtube_id": "RxQpgG-SFNQ",
+    "category": ["Python"]
   },
   {
     "id": 4,
-    "title": "Django URLs va Views",
-    "youtube_id": "Etr2LCZ2GPo",
-    "category": ["Django"]
+    "title": "Shart Operatorlari (if, elif, else)",
+    "youtube_id": "8eSW0sxNlfM",
+    "category": ["Python"]
   },
   {
     "id": 5,
-    "title": "HTML & CSS Basics",
-    "youtube_id": "Etr2LCZ2GPo",
-    "category": ["Web"]
+    "title": "For Takrorlash Operatori va range()",
+    "youtube_id": "wBFJBcA3W5g",
+    "category": ["Python"]
   },
   {
     "id": 6,
-    "title": "Responsive Design",
-    "youtube_id": "Etr2LCZ2GPo",
-    "category": ["Web"]
-  },
-  {
-    "id": 7,
-    "title": "Git Basics",
-    "youtube_id": "Etr2LCZ2GPo",
-    "category": ["Tools"]
-  },
-  {
-    "id": 8,
-    "title": "Backend nima?",
-    "youtube_id": "Etr2LCZ2GPo",
-    "category": ["Backend"]
-  },
-  {
-    "id": 9,
-    "title": "REST API tushunchasi",
-    "youtube_id": "Etr2LCZ2GPo",
-    "category": ["Backend", "Web"]
+    "title": "Python Funksiyalar",
+    "youtube_id": "eQvea7bnetw",
+    "category": ["Python"]
   }
 ]
