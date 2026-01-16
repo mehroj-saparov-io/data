@@ -1,35 +1,24 @@
 [
   {
     "id": 1,
-    "slug": "atom-odatlaridan-olgan-bilimlarim",
-    "title": "Atom odatlaridan olgan bilimlarim",
-    "excerpt": "Katta o‘zgarishlar har doim katta qarorlardan boshlanmaydi.",
-    "description": "James Clear’ning “Atom Odatlari” kitobidan olgan shaxsiy xulosalarim: kichik, ammo barqaror odatlar orqali hayotni asta-sekin o‘zgartirish haqida.",
-    "content": "atomic_habit.html",
-    "published_date": "Jan 11, 2026",
-    "reading_time": "6 min read",
-    "tags": ["Shaxsiy blog", "Odatlar"]
+    "slug": "otp-nima-va-u-qanday-ishlaydi",
+    "title": "OTP nima va u qanday ishlaydi?",
+    "excerpt": "Xavfsizlik bitta kuchli parolda emas, vaqtinchalik himoyada.",
+    "description": "OTP (One-Time Password) nima ekanligi, nega oddiy parol yetarli emasligi va OTP qanday qilib akkaunt xavfsizligini bir necha baravar oshirishi haqida sodda va tushunarli izoh.",
+    "content": "otp.html",
+    "published_date": "Jan 16, 2026",
+    "reading_time": "5 min read",
+    "tags": ["Xavfsizlik", "Autentifikatsiya", "Texnologiya"]
   },
   {
     "id": 2,
-    "slug": "dasturchi-bolmoqchimisiz-ingliz-tilidan-boshlang",
-    "title": "Dasturchi bo‘lmoqchimisiz? Ingliz tilidan boshlang",
-    "excerpt": "Ingliz tili dasturchi uchun qo‘shimcha emas, asosiy vositadir.",
-    "description": "Dasturchilik yo‘lida ingliz tilining o‘rni, uni mukammal bilish shart emasligi va qanday qilib kod bilan birga o‘rganish mumkinligi haqida shaxsiy fikrlar.",
-    "content": "english_for_developers.html",
-    "published_date": "Jan 13, 2026",
-    "reading_time": "5 min read",
-    "tags": ["Dasturlash", "Ingliz tili", "Shaxsiy tajriba"]
-  },
-  {
-    "id": 3,
-    "slug": "yoq-deyishni-organish-sanati",
-    "title": "Yo‘q deyishni o‘rganish san’ati",
-    "excerpt": "Har bir \"ha\" boshqa bir narsaga aytilgan \"yo‘q\"dir.",
-    "description": "Vaqt, e’tibor va ichki xotirjamlikni asrash uchun nega va qanday qilib “yo‘q” deyishni o‘rganish kerakligi haqida shaxsiy mulohazalar.",
-    "content": "no_saying_art.html",
-    "published_date": "Jan 15, 2026",
-    "reading_time": "5 min read",
-    "tags": ["Shaxsiy blog", "Hayot", "Intizom"]
+    "slug": "smtp-nima-va-email-qanday-yuboriladi",
+    "title": "SMTP nima va email qanday yuboriladi?",
+    "excerpt": "Biz sezmaydigan, lekin har bir email ortida ishlaydigan tizim.",
+    "description": "SMTP (Simple Mail Transfer Protocol) qanday ishlashi, email yuborish jarayonida uning roli va nega u hanuzgacha internet infratuzilmasining ajralmas qismi ekanligi haqida tushuntiruvchi maqola.",
+    "content": "smtp.html",
+    "published_date": "Jan 17, 2026",
+    "reading_time": "6 min read",
+    "tags": ["Email", "Internet", "Protokollar", "Texnologiya"]
   }
 ]
